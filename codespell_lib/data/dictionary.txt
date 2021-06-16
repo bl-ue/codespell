@@ -3807,8 +3807,8 @@ bianries->binaries
 bianry->binary
 biappicative->biapplicative
 bidimentionnal->bidimensional
-biding->binding
-bidings->bindings
+biding->binding, bidding,
+bidings->bindings, bidding,
 bidning->binding
 bidnings->bindings
 bigallic->bigalloc
