@@ -11432,6 +11432,11 @@ enterance->entrance
 enteratinment->entertainment
 entereing->entering
 enterily->entirely
+enterpise->enterprise
+enterpiser->enterpriser
+enterpisers->enterprisers
+enterpises->enterprises
+enterpising->enterprising
 entery->entry
 enteties->entities
 entety->entity
@@ -24998,7 +25003,15 @@ resteraunt->restaurant
 resteraunts->restaurants
 restes->reset
 restesting->retesting
+restict->restrict
 resticted->restricted
+resticter->restricter
+resticters->restricters
+restictes->restricts
+resticting->restricting
+restiction->restriction
+restictions->restrictions
+resticts->restricts
 restoding->restoring
 restoiring->restoring
 restor->restore
@@ -26506,6 +26519,7 @@ sintaks->syntax
 sintakt->syntax
 sintakts->syntax
 sintax->syntax
+sintra->Sinatra
 Sionist->Zionist
 Sionists->Zionists
 siply->simply
